@@ -1,0 +1,20 @@
+baseurl = "https://mschygulla.github.io/"
+languageCode = "en-us"
+title = "Martin Schygulla's Blog"
+theme = "hyde"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+  author = "Martin Schygulla"
+  description = "Blog about thoughts, stories and ideas."
+
+  theme = "theme-base-0d"
+  truncate = true
+
+  github = "https://github.com/mschygulla"
+  linkedin = "https://linkedin.com/in/schygulla"
+  twitter = "http://twitter.com/maschygulla"
+  rss = true
